@@ -1,0 +1,10 @@
+dichoso,0.25
+miguel,0.3
+emulsivo,0.05
+lavador,0.2
+empacador,0.2
+fornicario,0.1
+versta,0.25
+argumentador,0.75
+básicamente,0.75
+carpidor,0.68
