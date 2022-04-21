@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1554997191 source:c:\users\juanr\desktop\c++\nueva carpeta\grafo nd\main.cpp
+	<iostream>
+	"grafo ND.h"
+
+1554996713 c:\users\juanr\desktop\c++\nueva carpeta\grafo nd\grafo nd.h
+	<list>
+	<map>
+

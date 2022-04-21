@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1477350158 source:c:\users\administrador\desktop\nico\facultad\segundo año\algoritmo ii\tp backtracking\main.cpp
+	<iostream>
+	<list>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<cstdlib>
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1538554387 source:c:\users\ulipa\onedrive\escritorio\trabajo ayda 2018\fila\fila.cpp
+	"fila.h"
+	<iostream>
+
+1538554387 c:\users\ulipa\onedrive\escritorio\trabajo ayda 2018\fila\fila.h
+
+1538554015 source:c:\users\ulipa\onedrive\escritorio\trabajo ayda 2018\fila\main.cpp
+	<iostream>
+	"fila.h"
+
+1538554387 source:c:\users\ulipa\onedrive\escritorio\algoritmos\trabajo ayda 2018\estructuras\fila\fila.cpp
+	"fila.h"
+	<iostream>
+
+1538554387 c:\users\ulipa\onedrive\escritorio\algoritmos\trabajo ayda 2018\estructuras\fila\fila.h
+
+1538554405 source:c:\users\ulipa\onedrive\escritorio\algoritmos\trabajo ayda 2018\estructuras\fila\main.cpp
+	<iostream>
+	"fila.h"
+

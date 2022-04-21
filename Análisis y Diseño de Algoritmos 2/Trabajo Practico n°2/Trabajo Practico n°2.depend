@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1476994090 source:c:\users\administrador\desktop\nico\facultad\segundo año\algoritmo ii\trabajo practico n°2\main.cpp
+	<iostream>
+	<list>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

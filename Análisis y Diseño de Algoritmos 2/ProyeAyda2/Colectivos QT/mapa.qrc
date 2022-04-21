@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>mapa.bmp</file>
+        <file>64520723-bus-icon-vector-illustration-eps10-on-white-background.jpg</file>
+        <file>52258550-icono-de-autob-s-bot-n-redondo-de-color-negro-brillante.jpg</file>
+    </qresource>
+</RCC>

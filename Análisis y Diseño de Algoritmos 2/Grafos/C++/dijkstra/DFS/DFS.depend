@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1554471943 source:c:\users\ulipa\onedrive\escritorio\ayda ii\grafo\main.cpp
+	<iostream>
+	"GrafoD.h"
+
+1554246755 c:\users\ulipa\onedrive\escritorio\ayda ii\grafo\grafod.h
+	<list>
+	<map>
+
+1538554387 source:c:\users\ulipa\onedrive\escritorio\ayda ii\grafo\fila\fila.cpp
+	"fila.h"
+	<iostream>
+
+1538554387 c:\users\ulipa\onedrive\escritorio\ayda ii\grafo\fila\fila.h
+
+1555076679 source:c:\users\ulipa\onedrive\escritorio\grafo\main.cpp
+	<iostream>
+	"GrafoD.h"
+
+1555044505 c:\users\ulipa\onedrive\escritorio\grafo\grafod.h
+	<list>
+	<map>
+
+1555300214 source:c:\users\ulipa\onedrive\escritorio\ayda ii\dijkstra\main.cpp
+	<iostream>
+	"GrafoD.h"
+
+1555044505 c:\users\ulipa\onedrive\escritorio\ayda ii\dijkstra\grafod.h
+	<list>
+	<map>
+

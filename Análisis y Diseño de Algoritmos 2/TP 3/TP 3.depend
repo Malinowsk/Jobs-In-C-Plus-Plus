@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1479422462 source:c:\users\administrador\desktop\nico\facultad\segundo año\algoritmo ii\tp 3\main.cpp
+	<iostream>
+	<map>
+	<tgmath.h>
+	<stack>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<fstream>
+

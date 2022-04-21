@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1494604399 source:/home/lucho/Escritorio/colectivos/main.cpp
+	<iostream>
+	<set>
+	"GrafoM.h"
+	<climits>
+	<cstdlib>
+	<ctime>
+	<list>
+	<cmath>
+
+1497566811 
+
+1494548086 /home/lucho/Escritorio/colectivos/GrafoM.h
+	<list>
+	<map>
+
+1498413986 source:/media/lucho/Datos/Mis cosas/Dropbox/Facultad/algoritmos 2/colectivos/main.cpp
+	<iostream>
+	<set>
+	"GrafoM.h"
+	<climits>
+	<cstdlib>
+	<ctime>
+	<list>
+	<cmath>
+	<iostream>
+	<set>
+	"GrafoM.h"
+	<climits>
+	<cstdlib>
+	<ctime>
+	<list>
+	<cmath>
+	<thread>
+
+1497566811 /media/lucho/Datos/Mis cosas/Dropbox/Facultad/algoritmos 2/colectivos/GrafoM.h
+	<list>
+	<map>
+	<assert.h>
+	<list>
+	<map>
+	<assert.h>
+
+1499381265 source:d:\mis cosas\dropbox\facultad\algoritmos 2\colectivos\main.cpp
+	<iostream>
+	<set>
+	"GrafoM.h"
+	<climits>
+	<cstdlib>
+	<ctime>
+	<list>
+	<cmath>
+	<array>
+
+1497566811 d:\mis cosas\dropbox\facultad\algoritmos 2\colectivos\grafom.h
+	<list>
+	<map>
+	<assert.h>
+
+1499397110 source:c:\users\nico\desktop\tp algoritmo 2\main.cpp
+	<iostream>
+	<set>
+	"GrafoM.h"
+	<climits>
+	<cstdlib>
+	<ctime>
+	<list>
+	<cmath>
+	<array>
+
+1497577610 c:\users\nico\desktop\tp algoritmo 2\grafom.h
+	<list>
+	<map>
+	<assert.h>
+
+1499474416 source:c:\users\administrador\desktop\nico\facultad\2do\algoritmo ii\tp final algoritmo 2\main.cpp
+	<iostream>
+	<set>
+	"GrafoM.h"
+	<climits>
+	<cstdlib>
+	<ctime>
+	<list>
+	<cmath>
+	<array>
+
+1497577610 c:\users\administrador\desktop\nico\facultad\2do\algoritmo ii\tp final algoritmo 2\grafom.h
+	<list>
+	<map>
+	<assert.h>
+

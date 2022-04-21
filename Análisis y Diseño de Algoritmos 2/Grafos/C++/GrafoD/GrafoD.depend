@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1555213274 source:c:\users\juanr\desktop\c++\grafod\main.cpp
+	<iostream>
+	"GrafoD.h"
+
+1555212675 c:\users\juanr\desktop\c++\grafod\grafod.h
+	<list>
+	<map>
+
